@@ -1,0 +1,6 @@
+@Mission10_JacobBigler_HostAddress = http://localhost:5109
+
+GET {{Mission10_JacobBigler_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
