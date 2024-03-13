@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission10_JacobBigler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d09fdf6e568ea80011b02aaed56e1837bf09d222")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aec94b8b1a6986dbb32083b05fea6a380d73584f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission10_JacobBigler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission10_JacobBigler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
