@@ -30,4 +30,5 @@ public partial class Bowler
     public virtual ICollection<BowlerScore> BowlerScores { get; set; } = new List<BowlerScore>();
 
     public virtual Team? Team { get; set; }
+    public string TeamName { get; internal set; }
 }

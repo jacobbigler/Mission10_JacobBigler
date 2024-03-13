@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Mission10_JacobBigler.Controllers.BowlingController",
+    "Method": "Get",
+    "RelativePath": "Bowling",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Mission10_JacobBigler.Models.Bowler, Mission10_JacobBigler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
