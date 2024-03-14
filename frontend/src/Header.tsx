@@ -9,6 +9,11 @@ function Header(props: any) {
       <div className="col subtitle">
         <h1 className="text-white">{props.title}</h1>
         <h4 className="text-white">This ain't the bush league</h4>
+        <br />
+        <p className="text-white">
+          Here are the players involved in the final:
+        </p>
+        <h3 className="text-white">MARLINS vs. SHARKS</h3>
       </div>
     </header>
   );

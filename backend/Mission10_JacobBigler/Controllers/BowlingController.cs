@@ -20,6 +20,7 @@ namespace Mission10_JacobBigler.Controllers
             var bowlerData = (from bowler in _bowlerRepository.Bowlers
                               join team in _bowlerRepository.Teams
                               on bowler.TeamId equals team.TeamId
+                              where team.TeamName == "Sharks" || team.TeamName == "Marlins"
                               select new Bowler
                               {
                                   //Add the stuff to variables

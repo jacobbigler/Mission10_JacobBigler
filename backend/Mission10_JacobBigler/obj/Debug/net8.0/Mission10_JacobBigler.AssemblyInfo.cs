@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission10_JacobBigler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d25b77838daff0f164072707687dc3708ac6e24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38ef222ee73784b2703a5945a02a8537afde192d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission10_JacobBigler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission10_JacobBigler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
