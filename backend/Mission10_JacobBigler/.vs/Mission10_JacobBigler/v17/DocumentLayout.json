@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|c:\\users\\12082\\source\\repos\\mission10_jacobbigler\\backend\\mission10_jacobbigler\\models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|solutionrelative:models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|c:\\users\\12082\\source\\repos\\mission10_jacobbigler\\backend\\mission10_jacobbigler\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|solutionrelative:models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|c:\\users\\12082\\source\\repos\\mission10_jacobbigler\\backend\\mission10_jacobbigler\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|solutionrelative:controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|c:\\users\\12082\\source\\repos\\mission10_jacobbigler\\backend\\mission10_jacobbigler\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|c:\\users\\12082\\source\\repos\\mission10_jacobbigler\\backend\\mission10_jacobbigler\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|c:\\users\\12082\\source\\repos\\mission10_jacobbigler\\backend\\mission10_jacobbigler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|c:\\users\\12082\\source\\repos\\mission10_jacobbigler\\backend\\mission10_jacobbigler\\models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|solutionrelative:models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|c:\\users\\12082\\source\\repos\\mission10_jacobbigler\\backend\\mission10_jacobbigler\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|solutionrelative:controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|c:\\users\\12082\\source\\repos\\mission10_jacobbigler\\backend\\mission10_jacobbigler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|c:\\users\\12082\\source\\repos\\mission10_jacobbigler\\backend\\mission10_jacobbigler\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|c:\\users\\12082\\source\\repos\\mission10_jacobbigler\\backend\\mission10_jacobbigler\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3637A30-B8A3-4353-9A6B-ED3CC3AA43CE}|Mission10_JacobBigler.csproj|solutionrelative:models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,35 +38,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Models\\Bowler.cs",
+              "RelativeDocumentMoniker": "Models\\Bowler.cs",
+              "ToolTip": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Models\\Bowler.cs",
+              "RelativeToolTip": "Models\\Bowler.cs",
+              "ViewState": "AQIAABkAAAAAlpmZmZkhwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:30:35.76Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Models\\Team.cs",
               "RelativeDocumentMoniker": "Models\\Team.cs",
               "ToolTip": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Models\\Team.cs",
               "RelativeToolTip": "Models\\Team.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAABIPQ0AAAAAAAAA",
+              "ViewState": "AQIAAA8AAADAl5mZmZkkwBUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T19:29:47.508Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bowler.cs",
-              "DocumentMoniker": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Models\\Bowler.cs",
-              "RelativeDocumentMoniker": "Models\\Bowler.cs",
-              "ToolTip": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Models\\Bowler.cs*",
-              "RelativeToolTip": "Models\\Bowler.cs*",
-              "ViewState": "AQIAABgAAACQMTMzMzMTwCEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:30:35.76Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -74,45 +76,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BowlingController.cs",
-              "DocumentMoniker": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Controllers\\BowlingController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BowlingController.cs",
-              "ToolTip": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Controllers\\BowlingController.cs",
-              "RelativeToolTip": "Controllers\\BowlingController.cs",
-              "ViewState": "AQIAABgAAABgZmZmZmYlwCUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:01:48.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BowlingLeagueContext.cs",
-              "DocumentMoniker": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Models\\BowlingLeagueContext.cs",
-              "RelativeDocumentMoniker": "Models\\BowlingLeagueContext.cs",
-              "ToolTip": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Models\\BowlingLeagueContext.cs",
-              "RelativeToolTip": "Models\\BowlingLeagueContext.cs",
-              "ViewState": "AQIAAH8AAACAv8zMzMwgwIEAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T19:39:53.854Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAcAAADgZmZmZmYkwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T18:39:53.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "ViewState": "AQIAABUAAABgZGZmZmYkwBwAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T19:42:25.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "BowlingController.cs",
+              "DocumentMoniker": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Controllers\\BowlingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlingController.cs",
+              "ToolTip": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Controllers\\BowlingController.cs",
+              "RelativeToolTip": "Controllers\\BowlingController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwBoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:01:48.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlingLeagueContext.cs",
+              "DocumentMoniker": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Models\\BowlingLeagueContext.cs",
+              "RelativeDocumentMoniker": "Models\\BowlingLeagueContext.cs",
+              "ToolTip": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\Models\\BowlingLeagueContext.cs",
+              "RelativeToolTip": "Models\\BowlingLeagueContext.cs",
+              "ViewState": "AQIAAL0AAAAAXmZmZuYwwIkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:39:53.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\12082\\source\\repos\\Mission10_JacobBigler\\backend\\Mission10_JacobBigler\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",

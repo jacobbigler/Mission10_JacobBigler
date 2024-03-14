@@ -25,6 +25,7 @@ namespace Mission10_JacobBigler.Controllers
                                   //Add the stuff to variables
                                   //I only add the information that will be needed.
                                   //Because of this, the bowlerId and TeamId will not be returned in the Json summary.
+                                  BowlerId = bowler.BowlerId,
                                   BowlerLastName = bowler.BowlerLastName,
                                   BowlerFirstName = bowler.BowlerFirstName,
                                   BowlerMiddleInit = bowler.BowlerMiddleInit,
@@ -33,9 +34,10 @@ namespace Mission10_JacobBigler.Controllers
                                   BowlerState = bowler.BowlerState,
                                   BowlerZip = bowler.BowlerZip,
                                   BowlerPhoneNumber = bowler.BowlerPhoneNumber,
+                                  TeamId = bowler.TeamId,
                                   // Add Team object to be returned.
                                   Team = team
-                              }).ToList();
+                              }).ToArray();
 
             return bowlerData;
         }
